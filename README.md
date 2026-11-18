@@ -38,4 +38,4 @@ I built a private scouting app to turn role requirements into searchable criteri
 
 ## Links
 
-[note](https://note.com/sousuke0504) · [LinkedIn](https://www.linkedin.com/in/sosuke-masaki-5787bb37b/) · [X](https://x.com/trawman2025)
+[note](https://note.com/sousuke0504) · [LinkedIn](https://www.linkedin.com/in/sosuke-masaki-5787bb37b/) · [X](https://x.com/SosukeOps_02)
